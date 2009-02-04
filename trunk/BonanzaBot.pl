@@ -7,6 +7,7 @@ $0 = "SGDeputy";
 
 use POE;
 use POE::Component::IRC;
+# The below modules should not be needed at this time since I don't use the bootblock.de/wq3 site now.
 use LWP;
 use HTTP::Cookies;
 use HTTP::Request::Common;
